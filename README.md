@@ -1,9 +1,10 @@
 # haberlersayfam
 Haberler sayfam BTK akademi 2.gün sabah modu <br>
 
+BTK Akademi **Erzurum** Frontend Developer
 
 
-##biz bugün; 
+## biz bugün;  
 
 *body tasarımı, header, nav,artcile, footer
 
