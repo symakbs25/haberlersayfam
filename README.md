@@ -3,7 +3,7 @@ Haberler sayfam BTK akademi 2.gün sabah modu <br>
 
 
 
-##biz bugün;
+##biz bugün; 
 
 *body tasarımı, header, nav,artcile, footer
 
